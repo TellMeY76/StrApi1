@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "authors",
+  "info": {
+    "name": "Authors"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Authors": {
+      "type": "string"
+    }
+  }
+}
